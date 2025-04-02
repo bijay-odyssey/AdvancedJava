@@ -36,7 +36,7 @@ This repository contains the code I developed while learning **Advanced Java** i
 
 ## How to Run:
 1. Clone this repository:  
-   `git clone https://github.com/your-username/advanced-java.git`
+   `git clone https://github.com/bijay-odyssey/AdvancedJava.git`
    
 2. Compile and run the program using your preferred IDE or command-line tools. Ensure you have a compatible JDK version installed.
    
